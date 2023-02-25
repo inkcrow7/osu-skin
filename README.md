@@ -1,4 +1,4 @@
-# osu-skin
+# osu-skins
 www看到个狗神煌的skin
 
 
